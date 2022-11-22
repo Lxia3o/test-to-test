@@ -5,7 +5,13 @@
 
 int main()
 {
-	printf("First output msg...\n");
+	
+	printf("AAAAAAAAAAAAAAAA..\n");
+	printf("AAAAAAAAAAAAAAAA..\n");
+	printf("AAAAAAAAAAAAAAAA..\n");
+	printf("AAAAAAAAAAAAAAAA..\n");
+	printf("AAAAAAAAAAAAAAAA..\n");
+	printf("AAAAAAAAAAAAAAAA..\n");
 	while(1){
 		sleep(1);
 	}
