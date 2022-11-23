@@ -49,6 +49,36 @@
   3. 原子核物理
   4. 凝聚态物理
 
+编号|游戏名称|销量|价格
+---|:--:|:--:|---:
+1|刺客信条|1000|199
+2|怪物猎人|50000|1999
+3|原神|100000|2000
 
+`printf("output Msg.")`
+
+(```)
+	function(){
+		printf("call system function;");
+	}
+	function();
+(```)
+
+```c
+	#include <stdio.h>
+	int main()
+	{
+		printf("测试语句");
+		return 0;
+	}
+```
+
+```python
+	import os;
+```
+
+```bash
+	echo "执行回显命令，打印语句"
+```
 
 
