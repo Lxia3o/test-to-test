@@ -83,5 +83,5 @@
 
 [哔哩哔哩](https://bilibili.com "点击进入B站")是当前最后广大青少年欢迎的视频平台之一
 
-![壁纸](https://postimg.cc/RNBXXh1K "图片显示")
+![壁纸](https://i.postimg.cc/TYyF2Wp7/jgp.png "图片显示")
 
